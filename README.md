@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @GabrielleEspejo Gaby 😉
-- 👀 I’m interested in the IT field. I like photography.
-I am passionate about cooking and gardening. I listen to Daft Punk and occasionally Rosalia, also some cracks guys from Costa Rica 
-Niño Koi. And if I were a writer I would have a better bio, that is why coding is better.
+👋 Hi, I’m Gaby (@GabrielleEspejo)
+
+💻 I come from a sales background and I’m currently transitioning into tech. After exploring front-end development through workshops and personal projects, I became more interested in testing and improving how things work.
+
+🔍 I enjoy finding issues, understanding why they happen, and fixing them.Most of my learning comes from building and testing my own projects.
+
+🌿 Outside of tech, I enjoy photography, cooking, gardening, and science fiction books.
 
 <!---
 GabrielleEspejo/GabrielleEspejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
