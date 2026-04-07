@@ -4,7 +4,7 @@
 
 🔍 I enjoy finding issues, understanding why they happen, and fixing them.Most of my learning comes from building and testing my own projects.
 
-🌿 Outside of tech, I enjoy photography, cooking, gardening, and science fiction books.
+🌿 Outside, I enjoy photography, cooking, gardening, and science fiction books.
 
 <!---
 GabrielleEspejo/GabrielleEspejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
