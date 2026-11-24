@@ -1,8 +1,6 @@
 👋 Hi, I’m Gaby (@GabrielleEspejo)
 
-💻 I come from a sales background and I’m currently transitioning into tech. After exploring front-end development through workshops and personal projects, I became more interested in testing and improving how things work.
-
-🔍 I enjoy finding issues, understanding why they happen, and fixing them. Most of my learning comes from building and testing my own projects.
+🔍 I enjoy finding issues, understanding why they happen, and fixing them. 
 
 🌿 Outside, I enjoy photography, cooking, gardening, and science fiction books.
 
